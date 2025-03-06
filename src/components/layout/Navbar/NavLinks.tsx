@@ -10,7 +10,7 @@ const NavLinks = () => {
                 <Link href="/events">الفعاليات</Link>
             </li>
             <li>
-                <Link href="/services">الخدمات v</Link>
+                <Link href="/services">العضويات</Link>
             </li>
             <li>
                 <Link href="/about-us">عن مداد</Link>
